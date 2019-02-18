@@ -7,7 +7,7 @@
 
 <a name="about"></a>
 ## About
-In this code along I created a mock website for Museum of Candy using the provided starter files. I also leveraged the [colorhunt.co](https://colorhunt.co/ "colorhunf.co") website to change the color palette.  I also employed some my light photoshop skills for the images.
+In this code along I created a mock website for Museum of Candy using the provided starter files. I also leveraged the [colorhunt.co](https://colorhunt.co/ "colorhunf.co") website to change the color palette.  I also employed some of my light photoshop skills for the images.
 
 <a name="features"></a>
 ## Features
@@ -37,4 +37,4 @@ To run the site on your local machine
 1. Download or clone the repository onto your machine.
 2. Extract the .zip file.
 3. Open .html file in your browser.
-5. Alternatively you can click on the following [Site Link](https://jsoto3000.github.io/js-portfolio-site-revisited-master/ "Site Link") to view.
+5. Alternatively you can click on the following [Site Link](TBD "Site Link") to view.
