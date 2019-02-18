@@ -1,16 +1,16 @@
 body {
-    background: #5e0606;
+    background: #f3f8ff;
     font-family: 'Emilys Candy', cursive;
 }
 
 .blurb h2 {
-   color: #ffa400;
+   color: #6927ff;
    font-weight: 100;
    font-size: 2.5rem;
 }
 
 .blurb p {
-    color: #ffa400;
+    color: #6927ff;
     font-weight: 100;
     font-size: 1rem;
     line-height: 2;
@@ -27,20 +27,26 @@ body {
 }
 
 #mainNavbar .nav-link {
-    color: white;
+    color: black;
 }
 
 #mainNavbar .nav-link:hover {
-    color: #970690;
+    color: #6927ff;
 }
 
 #mainNavbar .navbar-brand {
-    color: #970690;
+    color: #6927ff;
     font-size: 1.5rem;
 }
 
+.fa {
+
+color: #6927ff;
+
+}
+
 #headingGroup span {
-    color: #831212;
+    color: #970690;
 }
 
 #headingGroup h1 {
@@ -50,8 +56,27 @@ body {
 }
 
 .navbar.scrolled {
-    background: #831212;
+    background: #c6cfff;
     transition: background 500ms;
+}
+
+/*** Footer styling ***/
+
+footer {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+footer {
+    text-align: center;
+    border-top: 2px solid #6927ff;
+}
+
+footer p {
+    font-size: 0.75em;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #6927ff;
 }
 
 @media (max-width: 1200px) {
