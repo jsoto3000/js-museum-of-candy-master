@@ -1,6 +1,4 @@
-# Udacity - Portfolio Site Project Revisited
-
-# Colt Steele Web Development - Section 8 Bootstrap 4
+# Colt Steele Web Development - Section 8 Bootstrap 4 - Museum of Candy
 
 - [About this project](#about)
 - [Features](#features)
@@ -9,7 +7,7 @@
 
 <a name="about"></a>
 ## About
-In this code along I leveraged my Udacity Front End Web Development learned skills, supplemented by Colt Steele's Web Development Bootcamp lessons, to re-build my basic portfolio site.
+In this code along I created a mock website for Museum of Candy using the provided starter files. I also leveraged the [colorhunt.co](https://colorhunt.co/ "colorhunf.co") website to change the color palette.  I also employed some my light photoshop skills for the images.
 
 <a name="features"></a>
 ## Features
@@ -17,6 +15,9 @@ In this code along I leveraged my Udacity Front End Web Development learned skil
 - [x] CSS
 - [x] Bootstrap 4
 - [x] FontAwesome
+- [x] JavaScript
+- [x] Photoshop
+
 
 
 <a name="requirements"></a>
@@ -24,6 +25,9 @@ In this code along I leveraged my Udacity Front End Web Development learned skil
 - HTML
 - CSS
 - Bootstrap 4
+- FontAwesome
+- JavaScript
+
 
 <a name="technical_information"></a>
 ## Technical Information
